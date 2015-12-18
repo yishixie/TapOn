@@ -8,8 +8,7 @@
 
 ## Screen Shot:
 Launch Page
-![ScreenShot](http://xie.is/wp-content/uploads/2015/12/IMG_7673.png) 
-
+<img src="http://xie.is/wp-content/uploads/2015/12/IMG_7673.png" width="200px"/>
 Tapping On Page
 ![ScreenShot](http://xie.is/wp-content/uploads/2015/12/launch.png) 
 
