@@ -9,12 +9,13 @@
 ## Screen Shot:
 Launch Page
 
-<img src="http://xie.is/wp-content/uploads/2015/12/IMG_7673.png" width="250px"/>
-
-Tapping On Page
-
 <img src="http://xie.is/wp-content/uploads/2015/12/launch.png" width="250px"/>
 
 
+Tapping On Page
+
+<img src="http://xie.is/wp-content/uploads/2015/12/IMG_7673.png" width="250px"/>
+
+
 view demo video:
-https://github.com/yishixie/childrenCalculator/blob/master/demo/demoCalculator.mov
+[Tap On](https://youtu.be/qKyb626HLMI)
